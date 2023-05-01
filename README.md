@@ -1,1 +1,1 @@
-# SCritica_AlgDecker
+# Sección Crítica Y Algoritmo de Decker
